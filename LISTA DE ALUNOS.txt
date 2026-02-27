@@ -1,0 +1,8 @@
+# Lista de Presença - Atividade de Laboratório Git/GitHub
+
+# Obs.: Afim de evitarmos conflitos, vamos preencher os nomes, um por linha, em ordem alfabética.
+# Exemplo:
+# Conan João Camargo
+# Daniel Soares Masuda 
+# Danilo Assis Maia de Almeida 
+# Yan Santos Menenzes Leite
