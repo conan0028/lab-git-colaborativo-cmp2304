@@ -3,11 +3,10 @@
 # Obs.: Afim de evitarmos conflitos, vamos preencher os nomes, um por linha, em ordem alfabética.
 # Exemplo:
 # Conan João Camargo
-# Daniel Soares 
-Matrícula: 2022.1.0028.0056-4 NOME: Danilo Assis 
+# Daniel Soares Masuda 
 # Danilo Assis Maia de Almeida 
 # Yan Santos Menenzes Leite
 
 Matrícula: 2021.2.0028.0037-9 Nome: Conan João Camargo
-Matrícula: 2020.2.0028.0020-7 NOME: Daniel Soares 
-Matrícula: 2022.1.0028.0056-4 NOME: Danilo Assis
+Matrícula: 2020.2.0028.0020-7 NOME: Daniel Soares Masuda
+Matrícula: 2022.1.0028.0056-4 Nome: Danilo Assis Maia
